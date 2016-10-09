@@ -1,7 +1,7 @@
 inherit qt5-qmake
 
 NAME="qt5ct"
-VERSION=0.25
+VERSION=0.27
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="Qt5 settings for non-Qt desktops"

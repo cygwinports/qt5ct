@@ -1,12 +1,11 @@
 inherit qt5-qmake
 
 NAME="qt5ct"
-VERSION=0.27
-RELEASE=2
+VERSION=0.33
+RELEASE=1
 CATEGORY="X11"
 SUMMARY="Qt5 settings for non-Qt desktops"
 DESCRIPTION="This program allows users to configure Qt5 settings (theme,
 font, icons, etc.) under DE/WM without Qt integration."
 HOMEPAGE="https://sourceforge.net/projects/qt5ct/"
 SRC_URI="mirror://sourceforge/qt5ct/qt5ct-${VERSION}.tar.bz2"
-PATCH_URI="0.27-no-undefined.patch"
